@@ -1,5 +1,5 @@
 # CodeAnalysisPMD
-In cooperation with Emil Klausen.
+In cooperation with Emil Klausen and Zygimantas Pranka.
 
 The last semester project of our group has been used for the exercises:
 
